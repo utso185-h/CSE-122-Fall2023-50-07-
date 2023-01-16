@@ -1,6 +1,3 @@
-//codeforce problem no- 231A
-//problem name - Team
-
 #include<iostream>
 using namespace std;
 

@@ -10,7 +10,6 @@ int main()
 {
   string s;
   cin>>s;
-  //int a=s.length();
   for(int i=0;i<s.size();i++)
   {
      s[i]=tolower(s[i]);
